@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning React JS and Node JS.
 - 💞️ I’m looking to work on new projects.
 - 📫 How to reach me : contact@swbmaker.fr
+- Projects I've carried out : - www.gims-location.fr
+                              - www.diamelo.fr
+                              - www.avocat58.fr
