@@ -3,9 +3,4 @@
 - 🌱 I’m currently learning new technologies like Laravel, React, Typescript or even Node.
 - 💞️ I’m looking to work on new projects.
 - 📫 How to reach me : contact@qmweb.fr
-- Projects I've carried out : - www.alacasa-production.fr
-                              - www.diamelo.fr
-                              - www.avocat58.fr
-                              - www.gims-location.fr
-                              - www.qmweb.fr
   
