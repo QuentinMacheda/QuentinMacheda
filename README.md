@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A9EA0?style=for-the-badge&logo=linkedin&logoColor=%23FBF9F1)](https://www.linkedin.com/in/quentin-macheda-23406a202/)
 [![Site Web](https://img.shields.io/badge/Site_Web-%230A9EA0?style=for-the-badge&logo=google-chrome&logoColor=%23FBF9F1)](https://www.qmweb.fr)
 
-- 🛠️ A full-stack developer who loves to develop helpful tools.
+- 🛠️ A full-stack developer who loves developping helpful tools.
 
 - 🤌 I'm really interested in AI powered app and web-based desktop app development.
 
